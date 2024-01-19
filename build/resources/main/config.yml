@@ -1,0 +1,20 @@
+prefix: "&6&lEpic&e&lMenu &8|"
+#
+# Messages
+#
+messages:
+  help:
+    - "----------------------------"
+    - "%prefix% &8/&7epicmenu&f <menu>"
+    - "%prefix% &8/&7epicmenu reload&f <menu>"
+    - "%prefix% &8/&7epicmenu reload all"
+    - "%prefix% &8/&7epicmenu remove &f<menu>"
+    - "%prefix% &8/&7epicmenu create &f<menu>"
+    - "%prefix% &8/&7epicmenu list"
+    - "----------------------------"
+  opening-menu: "%prefix% &7Opening %menu%"
+  invalid-menu: "%prefix% &cError Invalid Menu!"
+  no-permission: "%prefix% &cNo permission!"
+  reloaded: "%prefix% &aReloaded!"
+  created-menu: "%prefix% &aCreated menu!"
+  removed-menu: "%prefix% &cRemoved menu!"

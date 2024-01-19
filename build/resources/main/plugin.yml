@@ -1,0 +1,8 @@
+name: EpicMenu
+version: '2.1-SNAPSHOT'
+main: me.knovius.epicmenu.EpicMenu
+api-version: 1.16
+commands:
+  epicmenu:
+    aliases: [em, emenu]
+    description: null

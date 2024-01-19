@@ -1,0 +1,55 @@
+#
+# MENU
+#
+name: "Test Stats"
+size: 54 #HAS TO BE DIVSIBLE BY 9
+permission: "epicmenu.open.example" #Leave empty if no permission required
+#
+# FRAMES
+#
+frame1:
+  slots: '0,1,2,3,4,5,6,7,8,9,17,25,32'
+  item:
+    material: DIAMOND
+    name: ""
+    customModelData: 9999999
+    lore:
+      - ""
+      - ""
+      - ""
+  actions:
+    permission: ""
+    closeInventory: true
+    sendMessage:
+      - "hey!"
+    commands:
+      byPlayer:
+        - ""
+        - ""
+      byConsole:
+        - ""
+        - ""
+#
+# SLOTS
+#
+'0':
+  item:
+    material: IRON_INGOT
+    name: ""
+    customModelData: 9999999
+    lore:
+      - ""
+      - ""
+      - ""
+  actions:
+    permission: ""
+    closeInventory: true
+    sendMessage:
+      - "hey!"
+    commands:
+      byPlayer:
+        - ""
+        - ""
+      byConsole:
+        - ""
+        - ""
